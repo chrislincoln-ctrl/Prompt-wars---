@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Nagrik Saathi",
+  "description": "A GenAI-powered civic services platform that helps citizens access government services, report public issues, and get personalized help.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
